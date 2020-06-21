@@ -1,2 +1,2 @@
 # CPM
-build tools and package manager for C/C++ projects.
+build tools and package manager for C++ projects.

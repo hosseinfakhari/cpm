@@ -1,0 +1,17 @@
+{
+    "name": "project_name",
+    "version": "0.0.1",
+    "description": "project description",
+    "compiler": "clang++",
+    "extensions": [
+        ".cpp",
+        ".h",
+        ".hpp"
+    ],
+    "excludes": [
+        ".cpm_output",
+        "build",
+        ".build",
+        "CMakeFiles"
+    ]
+}

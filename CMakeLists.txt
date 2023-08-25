@@ -5,4 +5,4 @@ project(cpm)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpm main.cpp)
+add_executable(cpm src/lib/utils.h src/main.cpp)

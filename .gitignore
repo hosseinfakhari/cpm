@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+note.txt
+.vscode
+build
